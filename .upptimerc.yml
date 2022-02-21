@@ -10,7 +10,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
-assigness:
+assignees:
   - sebavidal10
 
 status-website:
