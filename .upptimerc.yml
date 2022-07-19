@@ -6,6 +6,12 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: sebavidal.cl
+    url: https://sebavidal.cl
+  - name: The BeerBrother
+    url: https://thebeerbrother.cl
+  - name: Intercode
+    url: https://intercode.cl
     
 assignees:
   - sebavidal10
