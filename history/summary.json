@@ -40,19 +40,19 @@
     "url": "https://sebavidal.cl",
     "icon": "https://favicons.githubusercontent.com/sebavidal.cl",
     "slug": "sebavidal-cl",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 311,
-    "timeDay": 217,
-    "timeWeek": 254,
-    "timeMonth": 373,
+    "timeDay": 257,
+    "timeWeek": 263,
+    "timeMonth": 372,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-09-15": 21
+      "2022-09-15": 32
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://thebeerbrother.cl",
     "icon": "https://favicons.githubusercontent.com/thebeerbrother.cl",
     "slug": "the-beer-brother",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 248,
-    "timeDay": 239,
-    "timeWeek": 249,
-    "timeMonth": 253,
-    "timeYear": 248,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 249,
+    "timeDay": 274,
+    "timeWeek": 259,
+    "timeMonth": 255,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-09-15": 21
+      "2022-09-15": 32
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://intercode.cl",
     "icon": "https://favicons.githubusercontent.com/intercode.cl",
     "slug": "intercode",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 286,
-    "timeDay": 248,
-    "timeWeek": 223,
-    "timeMonth": 339,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 285,
+    "timeDay": 244,
+    "timeWeek": 225,
+    "timeMonth": 336,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-09-15": 21
+      "2022-09-15": 32
     }
   }
 ]
