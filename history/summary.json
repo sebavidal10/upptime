@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 108,
-    "timeWeek": 102,
+    "timeDay": 61,
+    "timeWeek": 98,
     "timeMonth": 135,
     "timeYear": 96,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 271,
-    "timeWeek": 183,
-    "timeMonth": 180,
-    "timeYear": 214,
+    "time": 213,
+    "timeDay": 143,
+    "timeWeek": 192,
+    "timeMonth": 167,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/sebavidal.cl",
     "slug": "sebavidal-cl",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 311,
-    "timeDay": 257,
-    "timeWeek": 263,
-    "timeMonth": 372,
-    "timeYear": 311,
+    "uptime": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 307,
+    "timeDay": 205,
+    "timeWeek": 244,
+    "timeMonth": 369,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2022-09-15": 32
+      "2022-09-15": 21
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/thebeerbrother.cl",
     "slug": "the-beer-brother",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 249,
-    "timeDay": 274,
+    "uptime": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 248,
+    "timeDay": 289,
     "timeWeek": 259,
-    "timeMonth": 255,
-    "timeYear": 249,
+    "timeMonth": 257,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-09-15": 32
+      "2022-09-15": 21
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/intercode.cl",
     "slug": "intercode",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 285,
-    "timeDay": 244,
-    "timeWeek": 225,
+    "uptime": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 282,
+    "timeDay": 227,
+    "timeWeek": 219,
     "timeMonth": 336,
-    "timeYear": 285,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-09-15": 32
+      "2022-09-15": 21
     }
   }
 ]
