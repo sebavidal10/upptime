@@ -12,6 +12,10 @@ sites:
     url: https://thebeerbrother.cl
   - name: Intercode
     url: https://intercode.cl
+  - name: SantiagoEchange
+    url: https://www.santiagoexchange.com
+  - name: Blog SantiagoExchange
+    url: https://blog.santiagoexchange.com
     
 assignees:
   - sebavidal10
