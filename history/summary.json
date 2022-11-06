@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 332,
-    "timeWeek": 122,
-    "timeMonth": 105,
-    "timeYear": 97,
+    "time": 96,
+    "timeDay": 201,
+    "timeWeek": 115,
+    "timeMonth": 104,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 107,
-    "timeWeek": 141,
-    "timeMonth": 179,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 281,
+    "timeWeek": 180,
+    "timeMonth": 188,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 254,
-    "timeWeek": 241,
-    "timeMonth": 249,
-    "timeYear": 278,
+    "time": 277,
+    "timeDay": 207,
+    "timeWeek": 231,
+    "timeMonth": 247,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 275,
-    "timeWeek": 230,
-    "timeMonth": 230,
+    "timeDay": 259,
+    "timeWeek": 232,
+    "timeMonth": 231,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -87,12 +87,48 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 259,
-    "timeWeek": 245,
+    "timeDay": 234,
+    "timeWeek": 240,
     "timeMonth": 220,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
+  },
+  {
+    "name": "SantiagoEchange",
+    "url": "https://www.santiagoexchange.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
+    "slug": "santiago-echange",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Blog SantiagoExchange",
+    "url": "https://blog.santiagoexchange.com",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
+    "slug": "blog-santiago-exchange",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   }
 ]
