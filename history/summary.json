@@ -118,17 +118,19 @@
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 414,
-    "timeWeek": 371,
-    "timeMonth": 417,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 258,
+    "timeWeek": 338,
+    "timeMonth": 401,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2022-11-24": 0
+    }
   }
 ]
