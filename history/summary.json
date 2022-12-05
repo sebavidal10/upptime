@@ -100,10 +100,10 @@
     "url": "https://www.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
     "slug": "santiago-echange",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
@@ -111,25 +111,28 @@
     "timeWeek": 383,
     "timeMonth": 368,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "Blog SantiagoExchange",
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 370,
     "timeDay": 588,
     "timeWeek": 361,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-11-24": 123
     }
   }
