@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 77,
-    "timeWeek": 83,
-    "timeMonth": 82,
+    "timeDay": 58,
+    "timeWeek": 77,
+    "timeMonth": 81,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 217,
-    "timeWeek": 307,
-    "timeMonth": 295,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 133,
+    "timeWeek": 316,
+    "timeMonth": 261,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 217,
-    "timeWeek": 243,
-    "timeMonth": 220,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 118,
+    "timeWeek": 237,
+    "timeMonth": 215,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 156,
-    "timeWeek": 189,
-    "timeMonth": 197,
+    "timeDay": 195,
+    "timeWeek": 191,
+    "timeMonth": 196,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 133,
-    "timeWeek": 204,
-    "timeMonth": 209,
+    "timeDay": 199,
+    "timeWeek": 187,
+    "timeMonth": 205,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 381,
-    "timeDay": 251,
-    "timeWeek": 373,
-    "timeMonth": 373,
-    "timeYear": 381,
+    "time": 377,
+    "timeDay": 191,
+    "timeWeek": 323,
+    "timeMonth": 360,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2022-12-05": 36
     }
@@ -121,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.77%",
-    "time": 382,
-    "timeDay": 253,
-    "timeWeek": 400,
-    "timeMonth": 362,
-    "timeYear": 382,
+    "uptimeYear": "99.78%",
+    "time": 379,
+    "timeDay": 229,
+    "timeWeek": 353,
+    "timeMonth": 350,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2022-12-05": 19,
       "2022-11-24": 123
