@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 98,
-    "timeWeek": 93,
-    "timeMonth": 96,
-    "timeYear": 97,
+    "time": 96,
+    "timeDay": 82,
+    "timeWeek": 94,
+    "timeMonth": 95,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 330,
-    "timeWeek": 176,
-    "timeMonth": 250,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 86,
+    "timeWeek": 166,
+    "timeMonth": 251,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 300,
+    "timeDay": 214,
     "timeWeek": 260,
-    "timeMonth": 240,
+    "timeMonth": 241,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 235,
-    "timeDay": 290,
-    "timeWeek": 262,
-    "timeMonth": 229,
-    "timeYear": 235,
+    "time": 234,
+    "timeDay": 134,
+    "timeWeek": 251,
+    "timeMonth": 228,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 266,
-    "timeWeek": 252,
-    "timeMonth": 226,
+    "timeDay": 190,
+    "timeWeek": 255,
+    "timeMonth": 223,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 377,
-    "timeDay": 689,
-    "timeWeek": 435,
-    "timeMonth": 370,
-    "timeYear": 377,
+    "time": 375,
+    "timeDay": 205,
+    "timeWeek": 431,
+    "timeMonth": 359,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2022-12-05": 36
     }
@@ -121,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 393,
-    "timeDay": 729,
-    "timeWeek": 492,
-    "timeMonth": 413,
-    "timeYear": 393,
+    "uptimeYear": "99.86%",
+    "time": 392,
+    "timeDay": 275,
+    "timeWeek": 493,
+    "timeMonth": 404,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-12-05": 19,
       "2022-11-24": 123
