@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 75,
-    "timeWeek": 88,
-    "timeMonth": 112,
+    "time": 98,
+    "timeDay": 177,
+    "timeWeek": 99,
+    "timeMonth": 115,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 215,
-    "timeWeek": 157,
-    "timeMonth": 165,
-    "timeYear": 212,
-    "dailyMinutesDown": {
-      "2023-02-22": 9
-    }
+    "timeDay": 213,
+    "timeWeek": 150,
+    "timeMonth": 155,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sebavidal.cl",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 253,
-    "timeDay": 163,
+    "time": 254,
+    "timeDay": 289,
     "timeWeek": 288,
-    "timeMonth": 229,
-    "timeYear": 253,
+    "timeMonth": 231,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 190,
-    "timeWeek": 251,
-    "timeMonth": 394,
+    "timeDay": 262,
+    "timeWeek": 249,
+    "timeMonth": 396,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 190,
-    "timeWeek": 286,
-    "timeMonth": 251,
+    "timeDay": 253,
+    "timeWeek": 280,
+    "timeMonth": 252,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 379,
-    "timeDay": 157,
-    "timeWeek": 509,
-    "timeMonth": 417,
+    "timeDay": 386,
+    "timeWeek": 500,
+    "timeMonth": 423,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-12-05": 36
@@ -129,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 402,
-    "timeDay": 237,
-    "timeWeek": 498,
-    "timeMonth": 449,
+    "timeDay": 386,
+    "timeWeek": 473,
+    "timeMonth": 453,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2022-12-05": 19,
