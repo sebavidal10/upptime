@@ -101,18 +101,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
     "slug": "santiago-echange",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 221,
     "timeWeek": 294,
     "timeMonth": 339,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-05-23": 8,
       "2022-12-05": 36
     }
   },
