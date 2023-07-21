@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 240,
-    "timeWeek": 179,
+    "timeDay": 228,
+    "timeWeek": 177,
     "timeMonth": 127,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2023-07-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 214,
-    "timeWeek": 313,
-    "timeMonth": 237,
+    "timeDay": 244,
+    "timeWeek": 328,
+    "timeMonth": 239,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 246,
-    "timeWeek": 231,
+    "timeDay": 206,
+    "timeWeek": 225,
     "timeMonth": 235,
     "timeYear": 241,
     "dailyMinutesDown": {
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 345,
-    "timeWeek": 262,
-    "timeMonth": 239,
+    "time": 242,
+    "timeDay": 148,
+    "timeWeek": 250,
+    "timeMonth": 237,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 337,
-    "timeWeek": 252,
-    "timeMonth": 227,
+    "timeDay": 172,
+    "timeWeek": 247,
+    "timeMonth": 226,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 366,
-    "timeDay": 396,
-    "timeWeek": 356,
-    "timeMonth": 339,
+    "timeDay": 230,
+    "timeWeek": 334,
+    "timeMonth": 337,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2022-12-05": 36
@@ -129,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 407,
-    "timeDay": 536,
-    "timeWeek": 429,
-    "timeMonth": 409,
+    "timeDay": 287,
+    "timeWeek": 405,
+    "timeMonth": 406,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2022-12-05": 19,
