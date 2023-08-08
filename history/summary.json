@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 94,
-    "timeWeek": 167,
+    "timeDay": 61,
+    "timeWeek": 77,
     "timeMonth": 149,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 129,
-    "timeWeek": 117,
+    "timeDay": 224,
+    "timeWeek": 130,
     "timeMonth": 224,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 289,
-    "timeWeek": 232,
-    "timeMonth": 213,
+    "timeDay": 208,
+    "timeWeek": 231,
+    "timeMonth": 215,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 260,
-    "timeWeek": 189,
-    "timeMonth": 226,
+    "timeDay": 137,
+    "timeWeek": 176,
+    "timeMonth": 224,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 176,
-    "timeWeek": 231,
+    "timeDay": 115,
+    "timeWeek": 216,
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 411,
-    "timeWeek": 364,
-    "timeMonth": 337,
+    "timeDay": 161,
+    "timeWeek": 341,
+    "timeMonth": 335,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-12-05": 36
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 405,
-    "timeDay": 432,
-    "timeWeek": 418,
-    "timeMonth": 397,
-    "timeYear": 405,
+    "time": 404,
+    "timeDay": 277,
+    "timeWeek": 394,
+    "timeMonth": 398,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-12-05": 19,
       "2022-11-24": 123
