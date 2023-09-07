@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 129,
+    "timeDay": 74,
     "timeWeek": 90,
-    "timeMonth": 109,
+    "timeMonth": 108,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 186,
-    "timeWeek": 133,
-    "timeMonth": 164,
+    "timeDay": 206,
+    "timeWeek": 136,
+    "timeMonth": 167,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 139,
-    "timeWeek": 226,
-    "timeMonth": 224,
+    "timeDay": 220,
+    "timeWeek": 230,
+    "timeMonth": 221,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 223,
-    "timeWeek": 258,
-    "timeMonth": 239,
+    "timeDay": 153,
+    "timeWeek": 259,
+    "timeMonth": 236,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2022-09-15": 21
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 208,
-    "timeWeek": 257,
-    "timeMonth": 224,
-    "timeYear": 237,
+    "timeDay": 204,
+    "timeWeek": 253,
+    "timeMonth": 225,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-09-15": 21
     }
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 365,
-    "timeDay": 251,
-    "timeWeek": 371,
-    "timeMonth": 384,
+    "timeDay": 200,
+    "timeWeek": 361,
+    "timeMonth": 377,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2022-12-05": 36
@@ -127,9 +127,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 406,
-    "timeDay": 249,
-    "timeWeek": 404,
-    "timeMonth": 417,
+    "timeDay": 281,
+    "timeWeek": 401,
+    "timeMonth": 413,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2023-08-14": 41,
