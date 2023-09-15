@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 181,
-    "timeWeek": 94,
+    "timeDay": 90,
+    "timeWeek": 98,
     "timeMonth": 110,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 214,
-    "timeWeek": 160,
-    "timeMonth": 165,
+    "timeDay": 81,
+    "timeWeek": 149,
+    "timeMonth": 163,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-09-12": 16
@@ -48,14 +48,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 197,
-    "timeWeek": 217,
+    "time": 238,
+    "timeDay": 169,
+    "timeWeek": 211,
     "timeMonth": 222,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-09-15": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The BeerBrother",
@@ -69,13 +67,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 283,
-    "timeWeek": 223,
-    "timeMonth": 233,
+    "timeDay": 167,
+    "timeWeek": 220,
+    "timeMonth": 230,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2022-09-15": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intercode",
@@ -89,13 +85,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 162,
-    "timeWeek": 230,
-    "timeMonth": 226,
+    "timeDay": 333,
+    "timeWeek": 245,
+    "timeMonth": 229,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2022-09-15": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SantiagoEchange",
@@ -109,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 364,
-    "timeDay": 437,
-    "timeWeek": 314,
-    "timeMonth": 356,
+    "timeDay": 399,
+    "timeWeek": 349,
+    "timeMonth": 357,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2022-12-05": 36
@@ -126,12 +120,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 404,
-    "timeDay": 481,
-    "timeWeek": 341,
-    "timeMonth": 391,
+    "timeDay": 466,
+    "timeWeek": 377,
+    "timeMonth": 396,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2023-08-14": 41,
