@@ -78,18 +78,20 @@
     "url": "https://intercode.cl",
     "icon": "https://icons.duckduckgo.com/ip3/intercode.cl.ico",
     "slug": "intercode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 138,
-    "timeWeek": 211,
-    "timeMonth": 231,
+    "timeDay": 153,
+    "timeWeek": 206,
+    "timeMonth": 229,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   },
   {
     "name": "SantiagoEchange",
