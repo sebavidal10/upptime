@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 123,
-    "timeWeek": 329,
-    "timeMonth": 261,
+    "time": 239,
+    "timeDay": 428,
+    "timeWeek": 342,
+    "timeMonth": 270,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 258,
+    "time": 241,
+    "timeDay": 235,
     "timeWeek": 288,
-    "timeMonth": 283,
-    "timeYear": 241,
+    "timeMonth": 289,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 216,
-    "timeWeek": 436,
-    "timeMonth": 406,
-    "timeYear": 383,
+    "timeDay": 517,
+    "timeWeek": 444,
+    "timeMonth": 416,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.18%",
+    "uptimeYear": "91.45%",
     "time": 435,
-    "timeDay": 295,
-    "timeWeek": 525,
-    "timeMonth": 495,
-    "timeYear": 445,
+    "timeDay": 605,
+    "timeWeek": 526,
+    "timeMonth": 504,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2024-08-08": 860,
       "2024-08-07": 1440,
@@ -99,8 +99,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   }
 ]
