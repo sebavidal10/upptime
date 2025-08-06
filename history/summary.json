@@ -22,19 +22,19 @@
     "url": "https://thebeerbrother.cl",
     "icon": "https://icons.duckduckgo.com/ip3/thebeerbrother.cl.ico",
     "slug": "the-beer-brother",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "26.97%",
+    "uptimeWeek": "89.57%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "99.80%",
     "time": 255,
-    "timeDay": 288,
-    "timeWeek": 283,
-    "timeMonth": 268,
+    "timeDay": 269,
+    "timeWeek": 279,
+    "timeMonth": 267,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-08-06": 0
+      "2025-08-06": 1052
     }
   },
   {
@@ -65,7 +65,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.55%",
     "time": 423,
     "timeDay": 320,
     "timeWeek": 451,
