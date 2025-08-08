@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 267,
-    "timeWeek": 268,
-    "timeMonth": 266,
+    "timeDay": 239,
+    "timeWeek": 251,
+    "timeMonth": 262,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "the-beer-brother",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "26.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.57%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "99.80%",
     "time": 255,
-    "timeDay": 328,
-    "timeWeek": 283,
-    "timeMonth": 272,
+    "timeDay": 249,
+    "timeWeek": 275,
+    "timeMonth": 269,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-08-06": 1052
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 387,
-    "timeWeek": 421,
-    "timeMonth": 434,
-    "timeYear": 386,
+    "timeDay": 568,
+    "timeWeek": 416,
+    "timeMonth": 433,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 423,
-    "timeDay": 384,
-    "timeWeek": 397,
-    "timeMonth": 433,
-    "timeYear": 426,
-    "dailyMinutesDown": {
-      "2024-08-08": 860
-    }
+    "timeDay": 624,
+    "timeWeek": 405,
+    "timeMonth": 432,
+    "timeYear": 428,
+    "dailyMinutesDown": {}
   }
 ]
