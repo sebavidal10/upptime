@@ -60,19 +60,19 @@
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "down",
+    "status": "up",
     "uptime": "95.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 680,
-    "timeWeek": 456,
-    "timeMonth": 449,
+    "timeDay": 545,
+    "timeWeek": 450,
+    "timeMonth": 448,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 7
     }
   }
 ]
