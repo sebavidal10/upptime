@@ -42,10 +42,10 @@
     "url": "https://www.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
     "slug": "santiago-echange",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
@@ -53,24 +53,28 @@
     "timeWeek": 507,
     "timeMonth": 465,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-15": 1
+    }
   },
   {
     "name": "Blog SantiagoExchange",
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "up",
+    "status": "down",
     "uptime": "95.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
+    "time": 426,
     "timeDay": 504,
     "timeWeek": 494,
     "timeMonth": 460,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   }
 ]
