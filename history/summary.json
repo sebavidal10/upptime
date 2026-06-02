@@ -43,11 +43,11 @@
     "url": "https://www.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
     "slug": "santiago-echange",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.45%",
     "time": 409,
     "timeDay": 343,
@@ -63,7 +63,7 @@
       "2025-09-15": 649,
       "2026-03-13": 173,
       "2026-04-21": 153,
-      "2026-06-02": 34
+      "2026-06-02": 39
     }
   },
   {
@@ -71,9 +71,9 @@
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "up",
+    "status": "down",
     "uptime": "96.30%",
-    "uptimeDay": "97.96%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.48%",
