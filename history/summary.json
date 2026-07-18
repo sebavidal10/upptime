@@ -4,18 +4,20 @@
     "url": "https://sebavidal.cl",
     "icon": "https://icons.duckduckgo.com/ip3/sebavidal.cl.ico",
     "slug": "sebavidal-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 412,
-    "timeWeek": 280,
-    "timeMonth": 300,
-    "timeYear": 291,
-    "dailyMinutesDown": {}
+    "time": 315,
+    "timeDay": 7780,
+    "timeWeek": 2404,
+    "timeMonth": 795,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   },
   {
     "name": "The BeerBrother",
