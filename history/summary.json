@@ -45,15 +45,15 @@
     "url": "https://www.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.santiagoexchange.com.ico",
     "slug": "santiago-echange",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.45%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.44%",
     "time": 420,
-    "timeDay": 427,
-    "timeWeek": 430,
+    "timeDay": 452,
+    "timeWeek": 436,
     "timeMonth": 459,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
       "2026-04-21": 153,
       "2026-06-02": 48,
       "2026-06-03": 18,
-      "2026-07-24": 5
+      "2026-07-24": 49
     }
   },
   {
@@ -75,16 +75,16 @@
     "url": "https://blog.santiagoexchange.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.santiagoexchange.com.ico",
     "slug": "blog-santiago-exchange",
-    "status": "down",
-    "uptime": "96.44%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "98.47%",
     "time": 439,
-    "timeDay": 498,
-    "timeWeek": 435,
-    "timeMonth": 430,
+    "timeDay": 422,
+    "timeWeek": 424,
+    "timeMonth": 427,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2025-09-20": 1353,
@@ -97,7 +97,7 @@
       "2026-04-21": 180,
       "2026-06-02": 38,
       "2026-06-03": 18,
-      "2026-07-24": 0
+      "2026-07-24": 44
     }
   }
 ]
