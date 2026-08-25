@@ -4,8 +4,6 @@ repo: upptime # The name of this repository
 sites:
   - name: sebavidal.cl
     url: https://sebavidal.cl
-  - name: The BeerBrother
-    url: https://thebeerbrother.cl
   - name: SantiagoEchange
     url: https://www.santiagoexchange.com
   - name: Blog SantiagoExchange
